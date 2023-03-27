@@ -9,9 +9,9 @@
 
 ## About the project
 In this project we used some tools of PySpark library which is an interface for Apache Spark in Python. 
-It  allows you to write Spark applications using Python APIs, 
+It  allows you to write Spark applications using Python APIs. 
 PySpark supports most of Spark’s features such as Spark SQL, DataFrame, Streaming,
-MLlib (Machine Learning which includes a variety of models) and Spark Core. For more read this [documentation](https://spark.apache.org/docs/latest/api/python/) 
+MLlib (Machine Learning which includes a variety of models) and Spark Core. For more read this [documentation](https://spark.apache.org/docs/latest/api/python/).
 In this code we will cover Spark SQL, DataFrame,MLlib.
 
 ## About dataset
