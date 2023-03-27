@@ -8,11 +8,11 @@
 
 
 ## About the project
-In this project we used the some tools of PySpark library which is an interface for Apache Spark in Python. 
+In this project we used some tools of PySpark library which is an interface for Apache Spark in Python. 
 It  allows you to write Spark applications using Python APIs, 
 PySpark supports most of Spark’s features such as Spark SQL, DataFrame, Streaming,
-MLlib (Machine Learning) and Spark Core. for more read this [documentation](https://spark.apache.org/docs/latest/api/python/) 
-In this code we will cover Spark SQL, DataFrame,MLlib (Machine Learning which includes a variety of models).
+MLlib (Machine Learning which includes a variety of models) and Spark Core. For more read this [documentation](https://spark.apache.org/docs/latest/api/python/) 
+In this code we will cover Spark SQL, DataFrame,MLlib.
 
 ## About dataset
 
@@ -33,5 +33,5 @@ There are 418 Rows and 12 Columns in the Dataset :
 
 
 ## Parts
-* from PySpark SQL we have used commands for data processing and manipulation.
+* from PySpark SQL we have used commands and queries for data processing and manipulation.
 * from PySpark MLlib  we have deployed the linear regression model training and its related commands.
